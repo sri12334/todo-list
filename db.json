@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "34e9",
+      "title": "learn c++",
+      "completed": false
+    },
+    {
+      "id": "78c3",
+      "title": "learn python",
+      "completed": false
+    },
+    {
+      "id": "334f",
+      "title": "learn html",
+      "completed": false
+    }
+  ]
+}
